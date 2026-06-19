@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="./banner-image.png" alt="Tech Stack Banner" width="100%" />
+  <img src="./github-banner.png" alt="Tech Stack Banner" width="100%" />
   <br />
   
 </div>
